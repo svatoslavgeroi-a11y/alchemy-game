@@ -278,6 +278,9 @@ export const RECIPES = {
   'firewood+wall': 'stove',
   'house+stove': 'bathhouse',
   'human+stove': 'emelya',
+  'city+swamp': 'saint_petersburg',
+  'emelya+fish': 'pike',
+  'bird+titanium': 'airplane',
 };
 
 // Кешируем список нетерминальных элементов для быстрой проверки
