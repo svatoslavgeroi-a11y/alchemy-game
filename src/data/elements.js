@@ -268,8 +268,8 @@ export const ELEMENTS_DATA = {
   fishing_rod: { id: 'fishing_rod', name: 'Удочка', icon: '<iconify-icon icon="twemoji:fishing-pole"></iconify-icon>', category: 'materials' },
   fisherman: { id: 'fisherman', name: 'Рыбак', icon: '<img src="/assets/icons/fisherman.png" class="custom-icon" />', category: 'society' },
   stove: { id: 'stove', name: 'Печка', icon: '<iconify-icon icon="twemoji:bricks"></iconify-icon>', category: 'society' },
-  bathhouse: { id: 'bathhouse', name: 'Банька', icon: '<iconify-icon icon="twemoji:hot-springs"></iconify-icon>', category: 'society' },
-  emelya: { id: 'emelya', name: 'Емеля', icon: '<iconify-icon icon="twemoji:boy"></iconify-icon>', category: 'society' },
+  bathhouse: { id: 'bathhouse', name: 'Банька', icon: '<img src="/assets/icons/bathhouse.png" class="custom-icon" />', category: 'society' },
+  emelya: { id: 'emelya', name: 'Емеля', icon: '<img src="/assets/icons/emelya.png" class="custom-icon" />', category: 'society' },
 };
 
 // Запрет на использование одинаковых эмодзи
