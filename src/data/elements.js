@@ -273,6 +273,7 @@ export const ELEMENTS_DATA = {
   saint_petersburg: { id: 'saint_petersburg', name: 'Санкт-Петербург', icon: '<img src="/assets/icons/saint_petersburg.png" class="custom-icon" />', category: 'geography' },
   pike: { id: 'pike', name: 'Щука', icon: '<img src="/assets/icons/pike.png" class="custom-icon" />', category: 'fauna' },
   airplane: { id: 'airplane', name: 'Самолет', icon: '<iconify-icon icon="twemoji:airplane"></iconify-icon>', category: 'society' },
+  planet_of_the_apes: { id: 'planet_of_the_apes', name: 'Планета обезьян', icon: '<img src="/assets/icons/planet_of_the_apes.png" class="custom-icon" />', category: 'space' },
 };
 
 // Запрет на использование одинаковых эмодзи

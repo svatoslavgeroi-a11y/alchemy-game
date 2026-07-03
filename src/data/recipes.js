@@ -281,6 +281,7 @@ export const RECIPES = {
   'city+swamp': 'saint_petersburg',
   'emelya+fish': 'pike',
   'bird+titanium': 'airplane',
+  'monkey+planet': 'planet_of_the_apes',
 };
 
 // Кешируем список нетерминальных элементов для быстрой проверки
