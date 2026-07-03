@@ -1,0 +1,12 @@
+STYLE: 3d icon of [ELEMENT], very simple and minimalist, chunky clay style, isolated on a pure solid white background, no shadows on background, bright clean lighting, bold shape, no small details.
+
+INSTRUCTIONS:
+1. Generate the image using the prompt above, replacing [ELEMENT] with a description of the element.
+2. BEFORE adding to the site, remove the white background using an image editor or script (e.g. remove.bg, Photoshop, or ImageMagick) to make it transparent.
+3. Save the result as a .png with transparency to public/assets/icons/<element_id>.png.
+
+EXAMPLE PROMPT (phoenix):
+3d icon of a majestic phoenix bird made of glowing fire and bright yellow flames, very simple and minimalist, chunky clay style, isolated on a pure solid white background, no shadows on background, bright clean lighting, bold shape, no small details.
+
+EXAMPLE PROMPT (microchip):
+3d icon of a computer microchip with green glowing circuit lines and gold contacts, very simple and minimalist, chunky clay style, isolated on a pure solid white background, no shadows on background, bright clean lighting, bold shape, no small details.
