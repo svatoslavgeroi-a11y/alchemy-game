@@ -270,8 +270,8 @@ export const ELEMENTS_DATA = {
   stove: { id: 'stove', name: 'Печка', icon: '<iconify-icon icon="twemoji:bricks"></iconify-icon>', category: 'society' },
   bathhouse: { id: 'bathhouse', name: 'Банька', icon: '<img src="/assets/icons/bathhouse.png" class="custom-icon" />', category: 'society' },
   emelya: { id: 'emelya', name: 'Емеля', icon: '<img src="/assets/icons/emelya.png" class="custom-icon" />', category: 'society' },
-  saint_petersburg: { id: 'saint_petersburg', name: 'Санкт-Петербург', icon: '<iconify-icon icon="twemoji:cityscape-at-dusk"></iconify-icon>', category: 'geography' },
-  pike: { id: 'pike', name: 'Щука', icon: '<iconify-icon icon="twemoji:crocodile"></iconify-icon>', category: 'fauna' },
+  saint_petersburg: { id: 'saint_petersburg', name: 'Санкт-Петербург', icon: '<img src="/assets/icons/saint_petersburg.png" class="custom-icon" />', category: 'geography' },
+  pike: { id: 'pike', name: 'Щука', icon: '<img src="/assets/icons/pike.png" class="custom-icon" />', category: 'fauna' },
   airplane: { id: 'airplane', name: 'Самолет', icon: '<iconify-icon icon="twemoji:airplane"></iconify-icon>', category: 'society' },
 };
 
